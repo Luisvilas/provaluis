@@ -9,5 +9,3 @@ Na terceira questão identificamos os números que estão se repetindo para remo
 Na quarta questão fizemos a concatenação de duas listas, uma delas aleatória e a outra pré definida.
 
 Na quinta questão utilizamos a função main para chamar todas as funções utilizadas na atividade.
-
-teste
